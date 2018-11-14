@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8"?>
+<crossword>
+<word>
+<x> 13 </x>
+<y> 1 </y>
+<l> 6 </l>
+<isVertical> true </isVertical>
+<wrd> Brazil </wrd> 
+<question> Brasilia </question>
+<number> 1 </number>
+</word>
+<word>
+<x> 2 </x>
+<y> 2 </y>
+<l> 6 </l>
+<isVertical> true </isVertical>
+<wrd> France </wrd>
+<question> Paris </question>
+<number> 2 </number>
+</word>
+<word>
+<x> 6 </x>
+<y> 2 </y>
+<l> 9 </l>
+<isVertical> true </isVertical>
+<wrd> Australia </wrd> 
+<question> Canberra </question>
+<number> 3 </number>
+</word>
+<word>
+<x> 4 </x>
+<y> 3 </y>
+<l> 10 </l>
+<isVertical> false </isVertical>
+<wrd> SouthKorea </wrd>
+<question> Seoul </question>
+<number> 4 </number> 
+</word>
+<word>
+<x> 10 </x>
+<y> 5 </y>
+<l> 5 </l>
+<isVertical> false </isVertical>
+<wrd> India </wrd> 
+<question> New Delhi </question>
+<number> 5 </number>
+</word>
+<word>
+<x> 15 </x>
+<y> 6 </y>
+<l> 11 </l>
+<isVertical> true </isVertical>
+<wrd> SouthAfrica </wrd>
+<question> Johannesburg </question>
+<number> 6 </number> 
+</word>
+<word>
+<x> 1 </x>
+<y> 7 </y>
+<l> 10 </l>
+<isVertical> false </isVertical>
+<wrd> NewZealand </wrd> 
+<question> Wellington </question>
+<number> 7 </number>
+</word>
+<word>
+<x> 11 </x>
+<y> 8 </y>
+<l> 7 </l>
+<isVertical> true </isVertical>
+<wrd> Germany </wrd> 
+<question> Berlin </question>
+<number> 8 </number>
+</word>
+<word>
+<x> 4 </x>
+<y> 9 </y>
+<l> 5 </l>
+<isVertical> false </isVertical>
+<wrd> China </wrd> 
+<question> Beijin </question>
+<number> 9 </number>
+</word>
+<word>
+<x> 8 </x>
+<y> 9 </y>
+<l> 9 </l>
+<isVertical> true </isVertical>
+<wrd> Argentina </wrd> 
+<question> Buenos Aires </question>
+<number> 10 </number>
+</word>
+<word>
+<x> 4 </x>
+<y> 9 </y>
+<l> 5 </l>
+<isVertical> false </isVertical>
+<wrd> Egypt </wrd> 
+<question> Cairo </question>
+<number> 11 </number>
+</word>
+<word>
+<x> 4 </x>
+<y> 11 </y>
+<l> 6 </l>
+<isVertical> true </isVertical>
+<wrd> Russia </wrd> 
+<question> Moscow </question>
+<number> 12 </number>
+</word>
+<word>
+<x> 7 </x>
+<y> 12 </y>
+<l> 5 </l>
+<isVertical> false </isVertical>
+<wrd> Kenya </wrd> 
+<question> Nairobi </question>
+<number> 13 </number>
+</word>
+<word>
+<x> 17 </x>
+<y> 12 </y>
+<l> 5 </l>
+<isVertical> true </isVertical>
+<wrd> Japan </wrd> 
+<question> Tokyo </question>
+<number> 14 </number>
+</word>
+<word>
+<x> 11 </x>
+<y> 13 </y>
+<l> 7 </l>
+<isVertical> false </isVertical>
+<wrd> Nigeria </wrd> 
+<question> Abuja </question>
+<number> 15 </number>
+</word>
+<word>
+<x> 7 </x>
+<y> 14 </y>
+<l> 5 </l>
+<isVertical> false </isVertical>
+<wrd> Italy </wrd> 
+<question> Rome </question>
+<number> 16 </number>
+</word>
+<word>
+<x> 2 </x>
+<y> 16 </y>
+<l> 8 </l>
+<isVertical> false </isVertical>
+<wrd> Thailand </wrd> 
+<question> Bangkok </question>
+<number> 17 </number>
+</word>
+<word>
+<x> 13 </x>
+<y> 16 </y>
+<l> 5 </l>
+<isVertical> false </isVertical>
+<wrd> Spain </wrd> 
+<question> Madrid </question>
+<number> 18 </number>
+</word>
+
+</crossword>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<crossword>
+<word>
+<x> 1 </x>
+<y> 1 </y>
+<l> 7 </l>
+<isVertical> false </isVertical>
+<wrd> giraffe </wrd> 
+<question> </question>
+<number> 1 </number>
+</word>
+<word>
+<x> 3 </x>
+<y> 1 </y>
+<l> 7 </l>
+<isVertical> true </isVertical>
+<wrd> raccoon </wrd> 
+<question> </question>
+<number> 2 </number>
+</word>
+<word>
+<x> 7 </x>
+<y> 1 </y>
+<l> 8 </l>
+<isVertical> true </isVertical>
+<wrd> elephant </wrd> 
+<question> </question>
+<number> 3 </number>
+</word>
+<word>
+<x> 7 </x>
+<y> 2 </y>
+<l> 4 </l>
+<isVertical> false </isVertical>
+<wrd> lion </wrd> 
+<question> </question>
+<number> 4 </number>
+</word>
+<word>
+<x> 5 </x>
+<y> 3 </y>
+<l> 5 </l>
+<isVertical> false </isVertical>
+<wrd> sheep </wrd> 
+<question> </question>
+<number> 5 </number>
+</word>
+<word>
+<x> 5 </x>
+<y> 6 </y>
+<l> 5 </l>
+<isVertical> false </isVertical>
+<wrd> koala </wrd> 
+<question> </question>
+<number> 6 </number>
+</word>
+</crossword>
